@@ -33,7 +33,7 @@ Add it to your `INSTALLED_APPS`:
 
     INSTALLED_APPS = (
         #...
-        'django_postalcodes_mexico.apps.DjangoPostalcodesMexicoConfig',
+        'django_postalcodes_mexico',
         #...
     )
 
