@@ -62,7 +62,7 @@ C_ESTADO_CHOICES = (
     ("12", "Guerrero"),
     ("11", "Guanajuato"),
     ("25", "Sinaloa"),
-    ("15", "Ciudad de México"),
+    ("15", "Estado de México"),
     ("29", "Tlaxcala"),
     ("13", "Hidalgo"),
     ("08", "Chihuahua"),
